@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Always%20Happy%20%F0%9F%A4%97)
+
+
+
 ## Hi there 👋
 
 <!--
