@@ -7,8 +7,10 @@
   #### :fire: I am going to be an AI worker.<br/>
   <br/>
   <br/>
-
-## Hi there 👋
+  ## 🧱 Tech Stack
+  <br/>
+  <br/>
+  ## 🤔 Github Stats
 
 <!--
 **taehun96/taehun96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
