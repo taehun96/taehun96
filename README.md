@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Always%20Happy%20%F0%9F%A4%97)
 
-<script src="https://gist.github.com/rxaviers/7360908.js"></script:mortar_board:>
+  <!--Body-->
+  
+  ## 👀 About Me
+  #### :raising_hand: I am a student from South Korea.<br/>
+  #### :fire: I am going to be an AI worker.<br/>
+  <br/>
+  <br/>
 
 ## Hi there 👋
 
