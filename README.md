@@ -2,7 +2,7 @@
 
   <!--Body-->
 
-![taehun96's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehun96&theme=dark&show_icons=true)
+![taehun96's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehun96&theme=blueberry&show_icons=true)
 
 
   
