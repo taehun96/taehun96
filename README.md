@@ -1,5 +1,5 @@
 <div class="header">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=TaeHun's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="TaeHun's GitHub">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=d6ace6&text=TaeHun's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="TaeHun's GitHub">
 
   <!--Body-->
 
