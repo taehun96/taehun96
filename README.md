@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Always%20Happy%20%F0%9F%A4%97)
+<div class="header">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=TaeHun's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="TaeHun's GitHub">
 
   <!--Body-->
 
