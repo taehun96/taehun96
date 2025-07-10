@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Always%20Happy%20%F0%9F%A4%97)
 
   <!--Body-->
+
+![taehun96 GitHub stats](https://github-readme-stats.vercel.app/api?username=jk3160@naver.com&show_icons=true&theme=react)
+
+
   
   ## 👀 About Me
   #### :raising_hand: I am a student from South Korea.<br/>
